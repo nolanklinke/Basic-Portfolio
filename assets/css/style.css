@@ -75,3 +75,13 @@ section {
 }
 
 /* footer across all three pages */
+footer {
+    position: fixed;
+    width: 100%;
+    left: 0;
+    bottom: 0;
+    background-color: #666666;
+    border-top: 5px solid #4aaaa5;
+    text-align: center;
+    color: #fff;
+}
