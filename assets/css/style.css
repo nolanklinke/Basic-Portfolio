@@ -109,7 +109,16 @@ textarea {
     width: 200px;
     height: 200px;
 }
+ .photobox {
+     position: relative;
+     width: 100%;
+ }
 
+ .phototext {
+     position: absolute;
+     bottom: 0;
+     left: 0;
+ }
 /* footer across all three pages */
 footer {
     clear: both;
